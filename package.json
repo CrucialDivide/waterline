@@ -19,7 +19,7 @@
   "dependencies": {
     "underscore": "1.4.4",
     "async": "0.2.9",
-    "anchor": "https://github.com/CrucialDivide/anchor",
+    "anchor": "git+https://github.com/CrucialDivide/anchor",
     "q": "0.9.4"
   },
   "devDependencies": {
